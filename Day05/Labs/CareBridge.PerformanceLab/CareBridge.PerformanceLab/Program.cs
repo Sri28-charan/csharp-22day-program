@@ -97,7 +97,7 @@ static void ShowEncounters()
           .ToList();
 
     Console.WriteLine();
-    Console.WriteLine("PATIENT ENCOUNTERS");
+    Console.WriteLine("PATIENT ENCOUNTERS"); 
     Console.WriteLine("----------------------------");
 
     Console.WriteLine($"Patient Name    : {patient.FullName}");
