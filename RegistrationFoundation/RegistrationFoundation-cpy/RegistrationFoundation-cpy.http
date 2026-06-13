@@ -1,0 +1,6 @@
+@RegistrationFoundation_cpy_HostAddress = http://localhost:5233
+
+GET {{RegistrationFoundation_cpy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
